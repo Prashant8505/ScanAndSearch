@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162296981005",
+    "project_id": "scanandsearch-bc41d",
+    "storage_bucket": "scanandsearch-bc41d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162296981005:android:a9a781a91a073ead099744",
+        "android_client_info": {
+          "package_name": "com.mindofdevices.scanandsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162296981005-nja885l57mlfkbslikr8cp9pktg3fpac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqa_CrnP4ogguhi8deCa3wJso6pQsV18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162296981005-nja885l57mlfkbslikr8cp9pktg3fpac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
